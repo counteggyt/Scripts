@@ -38,5 +38,5 @@ Section:NewLabel("Credits to the person who gave me this idea")
 
 local Tab = Window:NewTab("Updates Coming Soon")
 local Section = Tab:NewSection("More Updates")
-Section:NewLabel("Please Remind me to make more updates i can organize it and make 10x more locations i didnt try doing alot on this")
-Section:NewLabel("Thanks For Using My Script!!! | Made By count egg#0111")
+Section:NewLabel("Please Remind me to make more updates")
+Section:NewLabel("Made By count egg#0111")
